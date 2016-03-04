@@ -1,0 +1,68 @@
+﻿Build started 3/3/2016 11:14:21 PM.
+     1>Project "C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(72): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(73): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(244): warning C4091: 'typedef ' : ignored on left of 'movePoint' when no variable is declared
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(373): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(375): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(376): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(504): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(516): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(527): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(531): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(557): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(562): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(883): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(889): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(895): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(901): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(908): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(922): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1009): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1018): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1020): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1022): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1050): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1082): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1091): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1095): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1140): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1144): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1148): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1152): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1156): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1166): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1168): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1172): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1190): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1192): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1196): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1214): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1216): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1227): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1229): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1237): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1239): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1274): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1276): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1280): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1284): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1291): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1293): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1295): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(1297): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(977): warning C4101: 'lastMouseDownMs' : unreferenced local variable
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(976): warning C4101: 'lastMouseDownX' : unreferenced local variable
+     1>c:\users\garrett\documents\visual studio 2013\projects\final - copy\why_is_everything_chasing_me\main.cpp(976): warning C4101: 'lastMouseDownY' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Debug\Final.exe" /INCREMENTAL /NOLOGO SDL2.lib opengl32.lib glu32.lib glew32.lib fmodex_vc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Debug\Final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Debug\Final.lib" /MACHINE:X86 Debug\main.obj
+         Final.vcxproj -> C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Debug\Final.exe
+     1>Done Building Project "C:\Users\Garrett\Documents\Visual Studio 2013\Projects\Final - Copy\Why_Is_Everything_Chasing_Me\Final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
